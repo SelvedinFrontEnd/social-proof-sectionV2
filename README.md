@@ -4,7 +4,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub)
 
 - Live Site URL: [Site](https://socialproofsectionv2.netlify.app)
 
